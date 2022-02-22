@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for showing how to use git and gihub together
+This is a simple website project for showing how to use git and gihub together. Adding aline fo rebasing example
 
 ## Introduction
 
